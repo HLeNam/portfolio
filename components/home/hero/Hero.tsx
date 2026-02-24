@@ -87,7 +87,7 @@ const Hero = () => {
           </a>
           {/* Secondary - Outline */}
           <a
-            href="https://drive.google.com/file/d/1HXN1X_9VLLa4zZ4G8h1VZ-TNxL7BD0ra/view?usp=sharing"
+            href="https://drive.google.com/file/d/1cEJRIqhn_0fvxUJsYhOPAitodw7FNIiP/view?usp=drive_link"
             className="group inline-flex items-center justify-center gap-2 px-8 py-3.5 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 font-semibold rounded-xl hover:border-blue-500 dark:hover:border-cyan-400 hover:text-blue-600 dark:hover:text-cyan-400 hover:-translate-y-0.5 backdrop-blur-sm transition-all duration-300"
             target="_blank"
             rel="noopener noreferrer"
