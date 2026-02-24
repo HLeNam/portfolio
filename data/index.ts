@@ -183,7 +183,7 @@ export const projects = [
       "NestJS",
       "PostgreSQL",
     ],
-    githubUrl: "https://github.com/luricisme/Website_BookingHotel",
+    githubUrl: "https://github.com/HLeNam/Hotel-Booking",
   },
   {
     title: "Gmail Kanban Manager",
