@@ -81,7 +81,7 @@ export const Navbar = ({ openNavbar }: NavbarProps) => {
                 <div className="flex items-center space-x-4">
                     <a
                         href="https://drive.google.com/file/d/1cEJRIqhn_0fvxUJsYhOPAitodw7FNIiP/view?usp=drive_link"
-                        className="box-border relative z-20 inline-flex items-center justify-center w-auto px-6 sm:px-8 py-3 overflow-hidden font-bold text-white transition-all duration-300 bg-blue-600 rounded-md cursor-pointer group ring-offset-2 ring-1 ring-blue-300 ring-offset-blue-200 hover:ring-offset-blue-500 ease focus:outline-none"
+                        className="hidden lg:inline-flex box-border relative z-20 items-center justify-center w-auto px-6 py-3 overflow-hidden font-bold text-white transition-all duration-300 bg-blue-600 rounded-md cursor-pointer group ring-offset-2 ring-1 ring-blue-300 ring-offset-blue-200 hover:ring-offset-blue-500 ease focus:outline-none"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
